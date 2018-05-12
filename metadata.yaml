@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32094'
     url: http://www.gutenberg.org/2009/agents/32094
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31182#De-bruidstijd-van-Annie-de-Boogh
 gutenberg_issued: '2010-02-04'
 gutenberg_type: Text
 identifiers:
